@@ -1,0 +1,5 @@
+﻿  Tetris.cpp
+C:\Users\lolag\source\repos\Tetris Temp\Tetris.cpp(16,1): warning C4005: IDM_EXIT: изменение макроопределения
+C:\Users\lolag\source\repos\Tetris Temp\resource.h(11): message : см. предыдущее определение "IDM_EXIT"
+C:\Users\lolag\source\repos\Tetris Temp\Tetris.cpp(819,34): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+  Tetris Temp.vcxproj -> C:\Users\lolag\source\repos\Tetris Temp\Debug\Tetris Temp.exe
