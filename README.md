@@ -22,7 +22,7 @@ This project is a classic implementation of the Tetris game, developed in C++ us
 
 1. **Clone the Repository**:
     ```bash
-    git clone [https://github.com/yourusername/tetris-game.git](https://github.com/GasanovaLola/tetris.git)
+    git clone (https://github.com/GasanovaLola/tetris.git)
     ```
 
 2. **Open the Project**:
